@@ -5,7 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Mosaico"
         mc:Ignorable="d"
-        Title="MainWindow" Height="650" Width="700">
+        Icon="assets/Icono.ico"
+        Title="Mosaico" Height="650" Width="700">
     <DockPanel>
         <TextBlock Background="Purple" DockPanel.Dock="Top" Height="100"></TextBlock>
         <TextBlock Background="Purple" DockPanel.Dock="Left" Width="100"></TextBlock>
